@@ -12,7 +12,7 @@ A simple bitmap font for the game [ThousandMazes](https://github.com/massblabla/
 ## Building
 To build the font, you must do the following:  
 Preparation:
-* Make sure you have Python 3 installed on your computer.
+* Make sure you have Python 3 installed on your computer. Check with `python --version` or `python3 --version`.
 * If done then type in the terminal: `$ pip install pillow fontforge`.
 
 After that is done, then you can build the font by doing the following:
