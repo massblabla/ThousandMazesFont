@@ -1,0 +1,4 @@
+*.ufo/
+svg_output/
+
+*.ttf
