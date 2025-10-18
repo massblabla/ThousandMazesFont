@@ -1,3 +1,5 @@
+![preview](/images/preview.png)
+
 # ThousandMazes Font
 ### Font Version 1.0.0, Builder Version 1.0.0
 **Copyright (C) 2025 massblabla**  
@@ -19,4 +21,4 @@ After that is done, then you can build the font by doing the following:
 * You must find it as `ThousandMazes.ttf`.
 
 ## TODOs
-* *none*
+* Expect 1.1.0 very soon!
