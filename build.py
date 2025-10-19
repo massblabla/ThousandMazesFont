@@ -20,6 +20,7 @@ def svg_folder_to_ttf(svg_folder, output_ttf):
     font.version = "1.0.0"
     font.fullname = "ThousandMazes"
     font.encoding = "UnicodeFull"
+    font.copyright = "Copyright (C) 2025 massblabla"
     font.em = TARGET_EM_SIZE
 
     for filename in sorted(os.listdir(svg_folder)):
